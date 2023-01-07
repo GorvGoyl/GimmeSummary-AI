@@ -1,5 +1,7 @@
 # Gimme Summary AI
 
+Free chrome extension to summarize articles on the web using ChatGPT AI
+
 Homepage: https://gimmesummary.ai
 
 ## Report bugs and issues:
